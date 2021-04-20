@@ -1,0 +1,27 @@
+<label for="firstName">First name: </label>
+<br>
+<input type="text" id="firstName" name="firstName">
+<br>
+<label for="lastName">Last Name: </label>
+<br>
+<input type="text" id="lastName" name="lastName">
+<br>
+</form>
+
+
+
+
+
+
+
+
+>Ideas<
+
+#The Idiot.
+
+What does it mean to be a gullable idiot? refer to the oldschool game outkast.
+Do a typing game. Any sort of cool graphics are in demand for this game type.
+
+#Learning
+
+People who are good at RTS games are not more naturally instinctive. They're just more knowledable. You can't force a square peg into a round hole"

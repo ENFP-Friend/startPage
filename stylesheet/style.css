@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    padding: 5px;
+    background-color: rgb(27, 0, 61);
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.center-inside {
+    margin-left:auto;
+    margin-right:auto;
+    width: 40em;
+    margin-top: 5%;
+}
+
+
+.card {
+    width:
+    border-radius: 5px;
+    border: 1px solid rgb(73, 43, 143);
+    margin-right: 10%;
+    background-color: rgb(45, 19, 107);
+    text-align: center;
+    color: white;
+
+}
+
+
+.card.dotted {
+    margin: 5%;
+    padding: 1%;
+    border: 1px dashed rgb(73, 43, 143);
+ 
+}
+
+a {
+    color:rgb(131, 89, 182)
+}
+
+a:hover {
+    color:rgb(216, 166, 110)
+}
+
+ul {
+    float: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+    padding: 4px;
+}
+
+li:hover {
+    background-color: rgb(63, 26, 150);
+    
+}
+
+.searchbar {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10%;
+}
+
+
+.ex1 .parent {
+    display: grid;
+    place-items: center;
+  }
+
+
+  .notes {
+      background-color: white;
+      color: black;
+      border-radius: 5px;
+      margin-bottom: 6px;
+  }
+
+  .notes:nth-child(even) {
+    background: rgb(117, 95, 168);
+  }
+  
+  .notes:nth-child(odd) {
+    background: rgb(204, 187, 243);
+  }

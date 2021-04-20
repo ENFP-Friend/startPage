@@ -1,0 +1,128 @@
+>Notes<
+
+Thu 04 Mar 2021 12:55:10 AEDT
+--------------------------------------------
+paru
+
+Fri 05 Mar 2021 01:02:55 AEDT
+--------------------------------------------
+vimtutor
+
+Sat 06 Mar 2021 06:21:13 AEDT
+--------------------------------------------
+tar -xcf
+
+Sat 06 Mar 2021 09:33:44 AEDT
+--------------------------------------------
+tar xvzf
+
+Sat 06 Mar 2021 10:49:11 AEDT
+--------------------------------------------
+ytfzf
+
+Mon 08 Mar 2021 11:08:04 AEDT
+--------------------------------------------
+tar -xf
+
+Tue 09 Mar 2021 00:28:57 AEDT
+--------------------------------------------
+30th is when this ends
+
+Tue 09 Mar 2021 01:21:49 AEDT
+--------------------------------------------
+picom
+
+Tue 09 Mar 2021 01:25:48 AEDT
+--------------------------------------------
+nitrogen
+
+Thu 11 Mar 2021 08:31:13 AEDT
+--------------------------------------------
+mailspring
+
+Fri 12 Mar 2021 07:41:18 AEDT
+--------------------------------------------
+reverse-grey-hair- gluathione b12 wheatgrass saw palmetto
+
+Sat 13 Mar 2021 07:26:54 AEDT
+--------------------------------------------
+body, html - height: 100vh
+
+Mon 22 Mar 2021 02:27:14 AEDT
+--------------------------------------------
+wallset --quit
+
+Sat 27 Mar 2021 09:59:26 AEDT
+--------------------------------------------
+bisqua
+
+Sat 27 Mar 2021 10:02:17 AEDT
+--------------------------------------------
+10th April
+27th of April is my booking. 2:30PM
+skin
+2pm IN THE CLINIC then.
+
+Sat 27 Mar 2021 19:06:12 AEDT
+--------------------------------------------
+check your own ip - hostname -I
+
+Sat 27 Mar 2021 19:46:45 AEDT
+--------------------------------------------
+tuir - reddit app
+
+Sat 27 Mar 2021 19:56:14 AEDT
+--------------------------------------------
+blessed-contrib
+
+Sat 27 Mar 2021 20:05:40 AEDT
+--------------------------------------------
+cmatrix
+
+Sat 27 Mar 2021 21:29:37 AEDT
+--------------------------------------------
+ln -s /original /link
+xrandr --output DVI-D-0 --mode 1920x1080
+Tomorrow, you can be anywhere.
+
+Mon 29 Mar 2021 09:04:44 AEDT
+--------------------------------------------
+create a bash script similar to tn however it exports to be recalled info to my blog
+
+Mon 29 Mar 2021 09:11:24 AEDT
+--------------------------------------------
+mkdir -p : if no parents exist create parent directory
+
+Mon 29 Mar 2021 09:17:46 AEDT
+--------------------------------------------
+/home/qw/git/css-html/grids
+tn $PWD 
+
+Mon 29 Mar 2021 19:01:20 AEDT
+--------------------------------------------
+i3status
+
+Mon 29 Mar 2021 19:03:37 AEDT
+--------------------------------------------
+i3status
+
+Mon 29 Mar 2021 19:03:54 AEDT
+--------------------------------------------
+man i3status
+
+Wed 31 Mar 2021 17:20:31 AEDT
+--------------------------------------------
+find location of installed packages pacman -Ql dwarffortress
+
+Fri 02 Apr 2021 22:30:35 AEDT
+--------------------------------------------
+check free memory/usage free -h
+
+Fri 02 Apr 2021 23:14:48 AEDT
+--------------------------------------------
+alsamixer
+
+Sun 04 Apr 2021 03:51:01 AEST
+--------------------------------------------
+learn columns
+/usr/share/conky/
